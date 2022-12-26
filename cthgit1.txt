@@ -1,0 +1,27 @@
+PERTEMUAN 1
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HelloWorld
+{
+    class program
+    {
+        static void Main(string[] args)
+        {
+        Console.WriteLine("*****************************************************************");
+        Console.WriteLine("------------------Contoh Program Pertama-------------------------");
+        Console.WriteLine("*****************************************************************");
+        Console.WriteLine("Nama Saya                        : Astrie Fauziah Wulandari");
+        Console.WriteLine("Tempat, Tanggal Lahir            : Jakarta, 20 Oktober 2000");
+        Console.WriteLine("Fakultas                         : Rekayasa Perangkat Lunak");
+        Console.WriteLine("Semester                         : Semester 1");
+        Console.ReadLine();
+        }
+        
+    }
+     
+}
